@@ -7,7 +7,7 @@
 - DigiBank(Org1)의 직원인 Balaji는 이 상업 어음을 구매하고 일정 기간 보유했다가 MagnetoCorp에서 소액의 이익이나 수익률로 상환.
 
 #### 네트워크 생성
-./network-starter.sh
+- ./network-starter.sh
 
 - 도커 컨테이너 모니터링 스크립트를 실행
 ./organization/magnetocorp/configuration/cli/monitordocker.sh docker_test
